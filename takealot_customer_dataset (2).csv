@@ -1,0 +1,212 @@
+Customer_ID,Age,Gender,Income_Level,Marital_Status,Education_Level,Province,Postal_Code,Purchase_Category,Purchase_Amount,Frequency_of_Purchase,Purchase_Channel,Brand_Loyalty,Product_Rating,Time_Spent_on_Product_Research,Cart_Abandonment_Frequency,Customer_Satisfaction,Discount_Sensitivity,Return_Rate,Points_Earned,Points_Redeemed,Customer_Loyalty_Program_Member,Website_Usability_Rating,Trust_Rating,Payment_Method,Time_of_Purchase
+ZA001-1234,25,Female,Middle,Single,Bachelor's,Gauteng,2000,Electronics,2500.50,5,Online,4,5,1.5,Never,5,Somewhat Sensitive,0,250,100,TRUE,5,5,Credit Card,2024-03-01
+ZA001-1235,40,Male,High,Married,Master's,Western Cape,8001,Fashion,1500.75,3,Mixed,3,4,0.5,Sometimes,4,Not Sensitive,1,150,50,FALSE,4,4,PayPal,2024-04-15
+ZA001-1236,30,Female,Middle,Divorced,High School,KwaZulu-Natal,4001,Groceries,450.20,8,Online,5,3,1,Often,3,Very Sensitive,2,45,0,TRUE,3,4,Debit Card,2024-06-10
+ZA001-1237,35,Male,High,Single,Bachelor's,Free State,9301,Home & Kitchen,3200.00,2,In-Store,2,5,0.3,Never,5,Not Sensitive,0,320,200,FALSE,5,5,Cash,2024-07-22
+ZA001-1238,28,Female,Middle,Married,Master's,Eastern Cape,6001,Books,200.10,6,Online,4,4,2,Sometimes,4,Somewhat Sensitive,1,20,0,TRUE,4,4,Credit Card,2024-08-05
+ZA001-1239,45,Male,High,Married,Bachelor's,Gauteng,2196,Sports & Outdoors,1800.90,4,Mixed,3,5,1,Never,5,Not Sensitive,0,180,50,FALSE,5,5,PayPal,2024-09-12
+ZA001-1240,22,Female,Low,Single,High School,Western Cape,7700,Beauty,300.45,7,Online,5,3,0.5,Often,3,Very Sensitive,2,30,0,TRUE,3,3,Debit Card,2024-10-01
+ZA001-1241,50,Male,Middle,Divorced,Bachelor's,North West,2745,Toys & Games,600.30,3,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,60,20,FALSE,4,4,Cash,2024-11-15
+ZA001-1242,33,Female,High,Single,Master's,Limpopo,0699,Electronics,5000.25,10,Online,4,5,1.5,Never,5,Not Sensitive,0,500,300,TRUE,5,5,Credit Card,2024-12-01
+ZA001-1243,29,Male,Middle,Married,High School,Mpumalanga,1200,Furniture,2800.60,2,Mixed,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,280,100,FALSE,4,4,PayPal,2024-03-20
+ZA001-1244,27,Female,Middle,Single,Bachelor's,Gauteng,2001,Groceries,350.15,9,Online,5,3,1,Often,3,Very Sensitive,2,35,0,TRUE,3,4,Debit Card,2024-04-25
+ZA001-1245,38,Male,High,Married,Master's,Western Cape,8000,Home & Kitchen,2200.80,4,In-Store,2,5,0.3,Never,5,Not Sensitive,0,220,50,FALSE,5,5,Cash,2024-05-10
+ZA001-1246,31,Female,Middle,Divorced,High School,KwaZulu-Natal,4000,Fashion,1200.40,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,120,0,TRUE,4,4,Credit Card,2024-06-15
+ZA001-1247,42,Male,High,Single,Bachelor's,Free State,9300,Electronics,4500.90,3,Mixed,3,5,1.5,Never,5,Not Sensitive,0,450,200,FALSE,5,5,PayPal,2024-07-30
+ZA001-1248,26,Female,Low,Single,High School,Eastern Cape,6000,Beauty,250.20,8,Online,5,3,0.5,Often,3,Very Sensitive,2,25,0,TRUE,3,3,Debit Card,2024-08-20
+ZA001-1249,48,Male,Middle,Married,Bachelor's,Gauteng,2194,Sports & Outdoors,2000.65,5,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,200,50,FALSE,4,4,Cash,2024-09-05
+ZA001-1250,34,Female,High,Divorced,Master's,Western Cape,7800,Books,150.30,7,Online,4,5,1,Never,5,Not Sensitive,0,15,0,TRUE,5,5,Credit Card,2024-10-10
+ZA001-1251,29,Male,Middle,Single,High School,North West,2740,Toys & Games,500.45,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,50,20,FALSE,4,4,PayPal,2024-11-20
+ZA001-1252,36,Female,High,Married,Bachelor's,Limpopo,0700,Electronics,6000.10,2,Online,5,5,1.5,Never,5,Not Sensitive,0,600,300,TRUE,5,5,Credit Card,2024-12-05
+ZA001-1253,41,Male,Middle,Divorced,Master's,Mpumalanga,1201,Furniture,3500.25,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,350,100,FALSE,4,4,PayPal,2024-03-15
+ZA001-1254,27,Female,Middle,Single,Bachelor's,Gauteng,2002,Groceries,400.60,8,Online,4,3,1,Often,3,Very Sensitive,2,40,0,TRUE,3,4,Debit Card,2024-04-20
+ZA001-1255,39,Male,High,Married,Master's,Western Cape,8002,Home & Kitchen,2800.90,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,280,50,FALSE,5,5,Cash,2024-05-25
+ZA001-1256,32,Female,Middle,Divorced,High School,KwaZulu-Natal,4002,Fashion,1300.75,6,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,130,0,TRUE,4,4,Credit Card,2024-06-30
+ZA001-1257,44,Male,High,Single,Bachelor's,Free State,9302,Electronics,4700.50,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,470,200,FALSE,5,5,PayPal,2024-07-15
+ZA001-1258,25,Female,Low,Single,High School,Eastern Cape,6002,Beauty,200.15,9,Online,4,3,0.5,Often,3,Very Sensitive,2,20,0,TRUE,3,3,Debit Card,2024-08-25
+ZA001-1259,47,Male,Middle,Married,Bachelor's,Gauteng,2195,Sports & Outdoors,2100.30,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,210,50,FALSE,4,4,Cash,2024-09-10
+ZA001-1260,35,Female,High,Divorced,Master's,Western Cape,7801,Books,170.45,7,Online,5,5,1,Never,5,Not Sensitive,0,17,0,TRUE,5,5,Credit Card,2024-10-15
+ZA001-1261,30,Male,Middle,Single,High School,North West,2741,Toys & Games,550.60,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,55,20,FALSE,4,4,PayPal,2024-11-25
+ZA001-1262,37,Female,High,Married,Bachelor's,Limpopo,0701,Electronics,6500.20,2,Online,4,5,1.5,Never,5,Not Sensitive,0,650,300,TRUE,5,5,Credit Card,2024-12-10
+ZA001-1263,42,Male,Middle,Divorced,Master's,Mpumalanga,1202,Furniture,3600.80,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,360,100,FALSE,4,4,PayPal,2024-03-25
+ZA001-1264,28,Female,Middle,Single,Bachelor's,Gauteng,2003,Groceries,420.90,8,Online,5,3,1,Often,3,Very Sensitive,2,42,0,TRUE,3,4,Debit Card,2024-04-30
+ZA001-1265,40,Male,High,Married,Master's,Western Cape,8003,Home & Kitchen,2900.15,3,In-Store,2,5,0.3,Never,5,Not Sensitive,0,290,50,FALSE,5,5,Cash,2024-05-30
+ZA001-1266,33,Female,Middle,Divorced,High School,KwaZulu-Natal,4003,Fashion,1400.40,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,140,0,TRUE,4,4,Credit Card,2024-06-20
+ZA001-1267,45,Male,High,Single,Bachelor's,Free State,9303,Electronics,4800.75,2,Mixed,3,5,1.5,Never,5,Not Sensitive,0,480,200,FALSE,5,5,PayPal,2024-07-25
+ZA001-1268,26,Female,Low,Single,High School,Eastern Cape,6003,Beauty,220.60,9,Online,5,3,0.5,Often,3,Very Sensitive,2,22,0,TRUE,3,3,Debit Card,2024-08-30
+ZA001-1269,48,Male,Middle,Married,Bachelor's,Gauteng,2197,Sports & Outdoors,2200.45,4,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,220,50,FALSE,4,4,Cash,2024-09-15
+ZA001-1270,36,Female,High,Divorced,Master's,Western Cape,7802,Books,180.75,7,Online,4,5,1,Never,5,Not Sensitive,0,18,0,TRUE,5,5,Credit Card,2024-10-20
+ZA001-1271,31,Male,Middle,Single,High School,North West,2742,Toys & Games,600.90,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,60,20,FALSE,4,4,PayPal,2024-11-30
+ZA001-1272,38,Female,High,Married,Bachelor's,Limpopo,0702,Electronics,7000.30,2,Online,5,5,1.5,Never,5,Not Sensitive,0,700,300,TRUE,5,5,Credit Card,2024-12-15
+ZA001-1273,43,Male,Middle,Divorced,Master's,Mpumalanga,1203,Furniture,3700.10,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,370,100,FALSE,4,4,PayPal,2024-03-30
+ZA001-1274,29,Female,Middle,Single,Bachelor's,Gauteng,2004,Groceries,440.20,8,Online,4,3,1,Often,3,Very Sensitive,2,44,0,TRUE,3,4,Debit Card,2024-04-25
+ZA001-1275,41,Male,High,Married,Master's,Western Cape,8004,Home & Kitchen,3000.50,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,300,50,FALSE,5,5,Cash,2024-05-31
+ZA001-1276,34,Female,Middle,Divorced,High School,KwaZulu-Natal,4004,Fashion,1500.65,6,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,150,0,TRUE,4,4,Credit Card,2024-06-25
+ZA001-1277,46,Male,High,Single,Bachelor's,Free State,9304,Electronics,4900.25,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,490,200,FALSE,5,5,PayPal,2024-07-30
+ZA001-1278,27,Female,Low,Single,High School,Eastern Cape,6004,Beauty,240.80,9,Online,4,3,0.5,Often,3,Very Sensitive,2,24,0,TRUE,3,3,Debit Card,2024-08-31
+ZA001-1279,49,Male,Middle,Married,Bachelor's,Gauteng,2198,Sports & Outdoors,2300.70,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,230,50,FALSE,4,4,Cash,2024-09-20
+ZA001-1280,37,Female,High,Divorced,Master's,Western Cape,7803,Books,190.90,7,Online,5,5,1,Never,5,Not Sensitive,0,19,0,TRUE,5,5,Credit Card,2024-10-25
+ZA001-1281,32,Male,Middle,Single,High School,North West,2743,Toys & Games,650.15,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,65,20,FALSE,4,4,PayPal,2024-12-01
+ZA001-1282,39,Female,High,Married,Bachelor's,Limpopo,0703,Electronics,7500.40,2,Online,4,5,1.5,Never,5,Not Sensitive,0,750,300,TRUE,5,5,Credit Card,2024-12-20
+ZA001-1283,44,Male,Middle,Divorced,Master's,Mpumalanga,1204,Furniture,3800.60,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,380,100,FALSE,4,4,PayPal,2024-03-31
+ZA001-1284,26,Female,Middle,Single,Bachelor's,Gauteng,2005,Groceries,410.30,7,Online,4,3,1,Often,3,Very Sensitive,2,41,0,TRUE,3,4,Debit Card,2024-04-10
+ZA001-1285,41,Male,High,Married,Master's,Western Cape,8005,Home & Kitchen,3100.20,3,In-Store,2,5,0.3,Never,5,Not Sensitive,0,310,50,FALSE,5,5,Cash,2024-05-15
+ZA001-1286,33,Female,Middle,Divorced,High School,KwaZulu-Natal,4005,Fashion,1600.80,5,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,160,0,TRUE,4,4,Credit Card,2024-06-10
+ZA001-1287,47,Male,High,Single,Bachelor's,Free State,9305,Electronics,5100.50,2,Mixed,3,5,1.5,Never,5,Not Sensitive,0,510,200,FALSE,5,5,PayPal,2024-07-20
+ZA001-1288,25,Female,Low,Single,High School,Eastern Cape,6005,Beauty,230.40,8,Online,4,3,0.5,Often,3,Very Sensitive,2,23,0,TRUE,3,3,Debit Card,2024-08-15
+ZA001-1289,50,Male,Middle,Married,Bachelor's,Gauteng,2199,Sports & Outdoors,2400.90,4,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,240,50,FALSE,4,4,Cash,2024-09-25
+ZA001-1290,35,Female,High,Divorced,Master's,Western Cape,7804,Books,200.20,6,Online,5,5,1,Never,5,Not Sensitive,0,20,0,TRUE,5,5,Credit Card,2024-10-30
+ZA001-1291,30,Male,Middle,Single,High School,North West,2744,Toys & Games,700.30,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,70,20,FALSE,4,4,PayPal,2024-11-10
+ZA001-1292,38,Female,High,Married,Bachelor's,Limpopo,0704,Electronics,7200.60,2,Online,4,5,1.5,Never,5,Not Sensitive,0,720,300,TRUE,5,5,Credit Card,2024-12-25
+ZA001-1293,43,Male,Middle,Divorced,Master's,Mpumalanga,1205,Furniture,3900.15,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,390,100,FALSE,4,4,PayPal,2024-03-10
+ZA001-1294,28,Female,Middle,Single,Bachelor's,Gauteng,2006,Groceries,430.50,8,Online,5,3,1,Often,3,Very Sensitive,2,43,0,TRUE,3,4,Debit Card,2024-04-15
+ZA001-1295,40,Male,High,Married,Master's,Western Cape,8006,Home & Kitchen,3200.70,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,320,50,FALSE,5,5,Cash,2024-05-20
+ZA001-1296,34,Female,Middle,Divorced,High School,KwaZulu-Natal,4006,Fashion,1700.25,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,170,0,TRUE,4,4,Credit Card,2024-06-05
+ZA001-1297,46,Male,High,Single,Bachelor's,Free State,9306,Electronics,5200.80,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,520,200,FALSE,5,5,PayPal,2024-07-10
+ZA001-1298,27,Female,Low,Single,High School,Eastern Cape,6006,Beauty,250.60,9,Online,5,3,0.5,Often,3,Very Sensitive,2,25,0,TRUE,3,3,Debit Card,2024-08-05
+ZA001-1299,49,Male,Middle,Married,Bachelor's,Gauteng,2200,Sports & Outdoors,2500.45,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,250,50,FALSE,4,4,Cash,2024-09-30
+ZA001-1300,36,Female,High,Divorced,Master's,Western Cape,7805,Books,210.80,7,Online,4,5,1,Never,5,Not Sensitive,0,21,0,TRUE,5,5,Credit Card,2024-10-05
+ZA001-1301,32,Male,Middle,Single,High School,North West,2745,Toys & Games,750.90,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,75,20,FALSE,4,4,PayPal,2024-11-15
+ZA001-1302,39,Female,High,Married,Bachelor's,Limpopo,0705,Electronics,7400.10,2,Online,5,5,1.5,Never,5,Not Sensitive,0,740,300,TRUE,5,5,Credit Card,2024-12-30
+ZA001-1303,44,Male,Middle,Divorced,Master's,Mpumalanga,1206,Furniture,4000.30,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,400,100,FALSE,4,4,PayPal,2024-03-05
+ZA001-1304,29,Female,Middle,Single,Bachelor's,Gauteng,2007,Groceries,450.90,8,Online,4,3,1,Often,3,Very Sensitive,2,45,0,TRUE,3,4,Debit Card,2024-04-20
+ZA001-1305,41,Male,High,Married,Master's,Western Cape,8007,Home & Kitchen,3300.15,3,In-Store,2,5,0.3,Never,5,Not Sensitive,0,330,50,FALSE,5,5,Cash,2024-05-25
+ZA001-1306,35,Female,Middle,Divorced,High School,KwaZulu-Natal,4007,Fashion,1800.40,6,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,180,0,TRUE,4,4,Credit Card,2024-06-30
+ZA001-1307,47,Male,High,Single,Bachelor's,Free State,9307,Electronics,5300.25,2,Mixed,3,5,1.5,Never,5,Not Sensitive,0,530,200,FALSE,5,5,PayPal,2024-07-05
+ZA001-1308,26,Female,Low,Single,High School,Eastern Cape,6007,Beauty,260.20,9,Online,4,3,0.5,Often,3,Very Sensitive,2,26,0,TRUE,3,3,Debit Card,2024-08-10
+ZA001-1309,50,Male,Middle,Married,Bachelor's,Gauteng,2201,Sports & Outdoors,2600.60,4,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,260,50,FALSE,4,4,Cash,2024-09-15
+ZA001-1310,37,Female,High,Divorced,Master's,Western Cape,7806,Books,220.45,7,Online,5,5,1,Never,5,Not Sensitive,0,22,0,TRUE,5,5,Credit Card,2024-10-20
+ZA001-1311,31,Male,Middle,Single,High School,North West,2746,Toys & Games,800.75,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,80,20,FALSE,4,4,PayPal,2024-11-25
+ZA001-1312,40,Female,High,Married,Bachelor's,Limpopo,0706,Electronics,7600.80,2,Online,4,5,1.5,Never,5,Not Sensitive,0,760,300,TRUE,5,5,Credit Card,2024-12-05
+ZA001-1313,45,Male,Middle,Divorced,Master's,Mpumalanga,1207,Furniture,4100.90,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,410,100,FALSE,4,4,PayPal,2024-03-20
+ZA001-1314,28,Female,Middle,Single,Bachelor's,Gauteng,2008,Groceries,460.20,8,Online,5,3,1,Often,3,Very Sensitive,2,46,0,TRUE,3,4,Debit Card,2024-04-25
+ZA001-1315,42,Male,High,Married,Master's,Western Cape,8008,Home & Kitchen,3400.50,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,340,50,FALSE,5,5,Cash,2024-05-30
+ZA001-1316,34,Female,Middle,Divorced,High School,KwaZulu-Natal,4008,Fashion,1900.65,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,190,0,TRUE,4,4,Credit Card,2024-06-15
+ZA001-1317,48,Male,High,Single,Bachelor's,Free State,9308,Electronics,5400.10,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,540,200,FALSE,5,5,PayPal,2024-07-20
+ZA001-1318,27,Female,Low,Single,High School,Eastern Cape,6008,Beauty,270.80,9,Online,5,3,0.5,Often,3,Very Sensitive,2,27,0,TRUE,3,3,Debit Card,2024-08-25
+ZA001-1319,49,Male,Middle,Married,Bachelor's,Gauteng,2202,Sports & Outdoors,2700.25,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,270,50,FALSE,4,4,Cash,2024-09-30
+ZA001-1320,38,Female,High,Divorced,Master's,Western Cape,7807,Books,230.90,7,Online,4,5,1,Never,5,Not Sensitive,0,23,0,TRUE,5,5,Credit Card,2024-10-05
+ZA001-1321,33,Male,Middle,Single,High School,North West,2747,Toys & Games,850.40,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,85,20,FALSE,4,4,PayPal,2024-11-10
+ZA001-1322,39,Female,High,Married,Bachelor's,Limpopo,0707,Electronics,7800.15,2,Online,5,5,1.5,Never,5,Not Sensitive,0,780,300,TRUE,5,5,Credit Card,2024-12-15
+ZA001-1323,46,Male,Middle,Divorced,Master's,Mpumalanga,1208,Furniture,4200.60,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,420,100,FALSE,4,4,PayPal,2024-03-25
+ZA001-1324,29,Female,Middle,Single,Bachelor's,Gauteng,2009,Groceries,470.45,8,Online,4,3,1,Often,3,Very Sensitive,2,47,0,TRUE,3,4,Debit Card,2024-04-30
+ZA001-1325,43,Male,High,Married,Master's,Western Cape,8009,Home & Kitchen,3500.20,3,In-Store,2,5,0.3,Never,5,Not Sensitive,0,350,50,FALSE,5,5,Cash,2024-05-05
+ZA001-1326,35,Female,Middle,Divorced,High School,KwaZulu-Natal,4009,Fashion,2000.30,6,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,200,0,TRUE,4,4,Credit Card,2024-06-20
+ZA001-1327,47,Male,High,Single,Bachelor's,Free State,9309,Electronics,5500.80,2,Mixed,3,5,1.5,Never,5,Not Sensitive,0,550,200,FALSE,5,5,PayPal,2024-07-25
+ZA001-1328,26,Female,Low,Single,High School,Eastern Cape,6009,Beauty,280.10,9,Online,4,3,0.5,Often,3,Very Sensitive,2,28,0,TRUE,3,3,Debit Card,2024-08-30
+ZA001-1329,50,Male,Middle,Married,Bachelor's,Gauteng,2203,Sports & Outdoors,2800.90,4,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,280,50,FALSE,4,4,Cash,2024-09-05
+ZA001-1330,37,Female,High,Divorced,Master's,Western Cape,7808,Books,240.60,7,Online,5,5,1,Never,5,Not Sensitive,0,24,0,TRUE,5,5,Credit Card,2024-10-10
+ZA001-1331,34,Male,Middle,Single,High School,North West,2748,Toys & Games,900.25,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,90,20,FALSE,4,4,PayPal,2024-11-15
+ZA001-1332,40,Female,High,Married,Bachelor's,Limpopo,0708,Electronics,7900.50,2,Online,4,5,1.5,Never,5,Not Sensitive,0,790,300,TRUE,5,5,Credit Card,2024-12-20
+ZA001-1333,45,Male,Middle,Divorced,Master's,Mpumalanga,1209,Furniture,4300.15,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,430,100,FALSE,4,4,PayPal,2024-03-30
+ZA001-1334,28,Female,Middle,Single,Bachelor's,Gauteng,2010,Groceries,480.80,8,Online,5,3,1,Often,3,Very Sensitive,2,48,0,TRUE,3,4,Debit Card,2024-04-05
+ZA001-1335,42,Male,High,Married,Master's,Western Cape,8010,Home & Kitchen,3600.70,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,360,50,FALSE,5,5,Cash,2024-05-10
+ZA001-1336,36,Female,Middle,Divorced,High School,KwaZulu-Natal,4010,Fashion,2100.90,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,210,0,TRUE,4,4,Credit Card,2024-06-25
+ZA001-1337,48,Male,High,Single,Bachelor's,Free State,9310,Electronics,5600.40,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,560,200,FALSE,5,5,PayPal,2024-07-30
+ZA001-1338,27,Female,Low,Single,High School,Eastern Cape,6010,Beauty,290.30,9,Online,5,3,0.5,Often,3,Very Sensitive,2,29,0,TRUE,3,3,Debit Card,2024-08-05
+ZA001-1339,49,Male,Middle,Married,Bachelor's,Gauteng,2204,Sports & Outdoors,2900.20,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,290,50,FALSE,4,4,Cash,2024-09-10
+ZA001-1340,38,Female,High,Divorced,Master's,Western Cape,7809,Books,250.15,7,Online,4,5,1,Never,5,Not Sensitive,0,25,0,TRUE,5,5,Credit Card,2024-10-15
+ZA001-1341,33,Male,Middle,Single,High School,North West,2749,Toys & Games,950.60,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,95,20,FALSE,4,4,PayPal,2024-11-20
+ZA001-1342,41,Female,High,Married,Bachelor's,Limpopo,0709,Electronics,8000.80,2,Online,5,5,1.5,Never,5,Not Sensitive,0,800,300,TRUE,5,5,Credit Card,2024-12-25
+ZA001-1343,46,Male,Middle,Divorced,Master's,Mpumalanga,1210,Furniture,4400.25,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,440,100,FALSE,4,4,PayPal,2024-03-05
+ZA001-1344,29,Female,Middle,Single,Bachelor's,Gauteng,2011,Groceries,490.40,8,Online,4,3,1,Often,3,Very Sensitive,2,49,0,TRUE,3,4,Debit Card,2024-04-10
+ZA001-1345,43,Male,High,Married,Master's,Western Cape,8011,Home & Kitchen,3700.90,3,In-Store,2,5,0.3,Never,5,Not Sensitive,0,370,50,FALSE,5,5,Cash,2024-05-15
+ZA001-1346,35,Female,Middle,Divorced,High School,KwaZulu-Natal,4011,Fashion,2200.45,6,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,220,0,TRUE,4,4,Credit Card,2024-06-30
+ZA001-1347,49,Male,High,Single,Bachelor's,Free State,9311,Electronics,5700.60,2,Mixed,3,5,1.5,Never,5,Not Sensitive,0,570,200,FALSE,5,5,PayPal,2024-07-05
+ZA001-1348,26,Female,Low,Single,High School,Eastern Cape,6011,Beauty,300.50,9,Online,4,3,0.5,Often,3,Very Sensitive,2,30,0,TRUE,3,3,Debit Card,2024-08-10
+ZA001-1349,50,Male,Middle,Married,Bachelor's,Gauteng,2205,Sports & Outdoors,3000.80,4,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,300,50,FALSE,4,4,Cash,2024-09-15
+ZA001-1350,39,Female,High,Divorced,Master's,Western Cape,7810,Books,260.70,7,Online,5,5,1,Never,5,Not Sensitive,0,26,0,TRUE,5,5,Credit Card,2024-10-20
+ZA001-1351,34,Male,Middle,Single,High School,North West,2750,Toys & Games,1000.90,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,100,20,FALSE,4,4,PayPal,2024-11-25
+ZA001-1352,40,Female,High,Married,Bachelor's,Limpopo,0710,Electronics,8100.15,2,Online,4,5,1.5,Never,5,Not Sensitive,0,810,300,TRUE,5,5,Credit Card,2024-12-30
+ZA001-1353,47,Male,Middle,Divorced,Master's,Mpumalanga,1211,Furniture,4500.40,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,450,100,FALSE,4,4,PayPal,2024-03-10
+ZA001-1354,30,Female,Middle,Single,Bachelor's,Gauteng,2012,Groceries,500.25,8,Online,5,3,1,Often,3,Very Sensitive,2,50,0,TRUE,3,4,Debit Card,2024-04-15
+ZA001-1355,42,Male,High,Married,Master's,Western Cape,8012,Home & Kitchen,3800.60,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,380,50,FALSE,5,5,Cash,2024-05-20
+ZA001-1356,36,Female,Middle,Divorced,High School,KwaZulu-Natal,4012,Fashion,2300.20,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,230,0,TRUE,4,4,Credit Card,2024-06-05
+ZA001-1357,48,Male,High,Single,Bachelor's,Free State,9312,Electronics,5800.80,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,580,200,FALSE,5,5,PayPal,2024-07-10
+ZA001-1358,27,Female,Low,Single,High School,Eastern Cape,6012,Beauty,310.90,9,Online,5,3,0.5,Often,3,Very Sensitive,2,31,0,TRUE,3,3,Debit Card,2024-08-15
+ZA001-1359,49,Male,Middle,Married,Bachelor's,Gauteng,2206,Sports & Outdoors,3100.45,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,310,50,FALSE,4,4,Cash,2024-09-20
+ZA001-1360,38,Female,High,Divorced,Master's,Western Cape,7811,Books,270.40,7,Online,4,5,1,Never,5,Not Sensitive,0,27,0,TRUE,5,5,Credit Card,2024-10-25
+ZA001-1361,35,Male,Middle,Single,High School,North West,2751,Toys & Games,1050.15,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,105,20,FALSE,4,4,PayPal,2024-11-30
+ZA001-1362,41,Female,High,Married,Bachelor's,Limpopo,0711,Electronics,8200.70,2,Online,5,5,1.5,Never,5,Not Sensitive,0,820,300,TRUE,5,5,Credit Card,2024-12-05
+ZA001-1363,46,Male,Middle,Divorced,Master's,Mpumalanga,1212,Furniture,4600.90,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,460,100,FALSE,4,4,PayPal,2024-03-15
+ZA001-1364,29,Female,Middle,Single,Bachelor's,Gauteng,2013,Groceries,510.60,8,Online,4,3,1,Often,3,Very Sensitive,2,51,0,TRUE,3,4,Debit Card,2024-04-20
+ZA001-1365,43,Male,High,Married,Master's,Western Cape,8013,Home & Kitchen,3900.25,3,In-Store,2,5,0.3,Never,5,Not Sensitive,0,390,50,FALSE,5,5,Cash,2024-05-25
+ZA001-1366,37,Female,Middle,Divorced,High School,KwaZulu-Natal,4013,Fashion,2400.80,6,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,240,0,TRUE,4,4,Credit Card,2024-06-30
+ZA001-1367,49,Male,High,Single,Bachelor's,Free State,9313,Electronics,5900.10,2,Mixed,3,5,1.5,Never,5,Not Sensitive,0,590,200,FALSE,5,5,PayPal,2024-07-05
+ZA001-1368,26,Female,Low,Single,High School,Eastern Cape,6013,Beauty,320.20,9,Online,4,3,0.5,Often,3,Very Sensitive,2,32,0,TRUE,3,3,Debit Card,2024-08-10
+ZA001-1369,50,Male,Middle,Married,Bachelor's,Gauteng,2207,Sports & Outdoors,3200.60,4,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,320,50,FALSE,4,4,Cash,2024-09-15
+ZA001-1370,39,Female,High,Divorced,Master's,Western Cape,7812,Books,280.80,7,Online,5,5,1,Never,5,Not Sensitive,0,28,0,TRUE,5,5,Credit Card,2024-10-20
+ZA001-1371,34,Male,Middle,Single,High School,North West,2752,Toys & Games,1100.40,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,110,20,FALSE,4,4,PayPal,2024-11-25
+ZA001-1372,42,Female,High,Married,Bachelor's,Limpopo,0712,Electronics,8300.25,2,Online,4,5,1.5,Never,5,Not Sensitive,0,830,300,TRUE,5,5,Credit Card,2024-12-30
+ZA001-1373,47,Male,Middle,Divorced,Master's,Mpumalanga,1213,Furniture,4700.15,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,470,100,FALSE,4,4,PayPal,2024-03-05
+ZA001-1374,30,Female,Middle,Single,Bachelor's,Gauteng,2014,Groceries,520.90,8,Online,5,3,1,Often,3,Very Sensitive,2,52,0,TRUE,3,4,Debit Card,2024-04-10
+ZA001-1375,44,Male,High,Married,Master's,Western Cape,8014,Home & Kitchen,4000.50,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,400,50,FALSE,5,5,Cash,2024-05-15
+ZA001-1376,36,Female,Middle,Divorced,High School,KwaZulu-Natal,4014,Fashion,2500.60,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,250,0,TRUE,4,4,Credit Card,2024-06-20
+ZA001-1377,50,Male,High,Single,Bachelor's,Free State,9314,Electronics,6000.90,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,600,200,FALSE,5,5,PayPal,2024-07-25
+ZA001-1378,27,Female,Low,Single,High School,Eastern Cape,6014,Beauty,330.45,9,Online,5,3,0.5,Often,3,Very Sensitive,2,33,0,TRUE,3,3,Debit Card,2024-08-30
+ZA001-1379,49,Male,Middle,Married,Bachelor's,Gauteng,2208,Sports & Outdoors,3300.20,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,330,50,FALSE,4,4,Cash,2024-09-05
+ZA001-1380,40,Female,High,Divorced,Master's,Western Cape,7813,Books,290.10,7,Online,4,5,1,Never,5,Not Sensitive,0,29,0,TRUE,5,5,Credit Card,2024-10-10
+ZA001-1381,35,Male,Middle,Single,High School,North West,2753,Toys & Games,1150.80,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,115,20,FALSE,4,4,PayPal,2024-11-15
+ZA001-1382,41,Female,High,Married,Bachelor's,Limpopo,0713,Electronics,8400.40,2,Online,5,5,1.5,Never,5,Not Sensitive,0,840,300,TRUE,5,5,Credit Card,2024-12-20
+ZA001-1383,48,Male,Middle,Divorced,Master's,Mpumalanga,1214,Furniture,4800.70,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,480,100,FALSE,4,4,PayPal,2024-03-25
+ZA001-1384,29,Female,Middle,Single,Bachelor's,Gauteng,2015,Groceries,530.25,8,Online,4,3,1,Often,3,Very Sensitive,2,53,0,TRUE,3,4,Debit Card,2024-04-30
+ZA001-1385,45,Male,High,Married,Master's,Western Cape,8015,Home & Kitchen,4100.90,3,In-Store,2,5,0.3,Never,5,Not Sensitive,0,410,50,FALSE,5,5,Cash,2024-05-05
+ZA001-1386,37,Female,Middle,Divorced,High School,KwaZulu-Natal,4015,Fashion,2600.15,6,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,260,0,TRUE,4,4,Credit Card,2024-06-10
+ZA001-1387,49,Male,High,Single,Bachelor's,Free State,9315,Electronics,6100.25,2,Mixed,3,5,1.5,Never,5,Not Sensitive,0,610,200,FALSE,5,5,PayPal,2024-07-15
+ZA001-1388,28,Female,Low,Single,High School,Eastern Cape,6015,Beauty,340.60,9,Online,4,3,0.5,Often,3,Very Sensitive,2,34,0,TRUE,3,3,Debit Card,2024-08-20
+ZA001-1389,50,Male,Middle,Married,Bachelor's,Gauteng,2209,Sports & Outdoors,3400.80,4,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,340,50,FALSE,4,4,Cash,2024-09-25
+ZA001-1390,39,Female,High,Divorced,Master's,Western Cape,7814,Books,300.20,7,Online,5,5,1,Never,5,Not Sensitive,0,30,0,TRUE,5,5,Credit Card,2024-10-30
+ZA001-1391,36,Male,Middle,Single,High School,North West,2754,Toys & Games,1200.45,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,120,20,FALSE,4,4,PayPal,2024-11-05
+ZA001-1392,42,Female,High,Married,Bachelor's,Limpopo,0714,Electronics,8500.90,2,Online,4,5,1.5,Never,5,Not Sensitive,0,850,300,TRUE,5,5,Credit Card,2024-12-10
+ZA001-1393,47,Male,Middle,Divorced,Master's,Mpumalanga,1215,Furniture,4900.15,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,490,100,FALSE,4,4,PayPal,2024-03-30
+ZA001-1394,30,Female,Middle,Single,Bachelor's,Gauteng,2016,Groceries,540.50,8,Online,5,3,1,Often,3,Very Sensitive,2,54,0,TRUE,3,4,Debit Card,2024-04-05
+ZA001-1395,44,Male,High,Married,Master's,Western Cape,8016,Home & Kitchen,4200.30,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,420,50,FALSE,5,5,Cash,2024-05-10
+ZA001-1396,38,Female,Middle,Divorced,High School,KwaZulu-Natal,4016,Fashion,2700.70,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,270,0,TRUE,4,4,Credit Card,2024-06-15
+ZA001-1397,50,Male,High,Single,Bachelor's,Free State,9316,Electronics,6200.60,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,620,200,FALSE,5,5,PayPal,2024-07-20
+ZA001-1398,27,Female,Low,Single,High School,Eastern Cape,6016,Beauty,350.80,9,Online,5,3,0.5,Often,3,Very Sensitive,2,35,0,TRUE,3,3,Debit Card,2024-08-25
+ZA001-1399,49,Male,Middle,Married,Bachelor's,Gauteng,2210,Sports & Outdoors,3500.40,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,350,50,FALSE,4,4,Cash,2024-09-30
+ZA001-1400,40,Female,High,Divorced,Master's,Western Cape,7815,Books,310.90,7,Online,4,5,1,Never,5,Not Sensitive,0,31,0,TRUE,5,5,Credit Card,2024-10-05
+ZA001-1401,35,Male,Middle,Single,High School,North West,2755,Toys & Games,1250.10,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,125,20,FALSE,4,4,PayPal,2024-11-10
+ZA001-1402,43,Female,High,Married,Bachelor's,Limpopo,0715,Electronics,8600.25,2,Online,5,5,1.5,Never,5,Not Sensitive,0,860,300,TRUE,5,5,Credit Card,2024-12-15
+ZA001-1403,48,Male,Middle,Divorced,Master's,Mpumalanga,1216,Furniture,5000.80,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,500,100,FALSE,4,4,PayPal,2024-03-20
+ZA001-1404,29,Female,Middle,Single,Bachelor's,Gauteng,2017,Groceries,550.60,8,Online,4,3,1,Often,3,Very Sensitive,2,55,0,TRUE,3,4,Debit Card,2024-04-25
+ZA001-1405,45,Male,High,Married,Master's,Western Cape,8017,Home & Kitchen,4300.15,3,In-Store,2,5,0.3,Never,5,Not Sensitive,0,430,50,FALSE,5,5,Cash,2024-05-30
+ZA001-1406,37,Female,Middle,Divorced,High School,KwaZulu-Natal,4017,Fashion,2800.20,6,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,280,0,TRUE,4,4,Credit Card,2024-06-05
+ZA001-1407,49,Male,High,Single,Bachelor's,Free State,9317,Electronics,6300.90,2,Mixed,3,5,1.5,Never,5,Not Sensitive,0,630,200,FALSE,5,5,PayPal,2024-07-10
+ZA001-1408,28,Female,Low,Single,High School,Eastern Cape,6017,Beauty,360.45,9,Online,4,3,0.5,Often,3,Very Sensitive,2,36,0,TRUE,3,3,Debit Card,2024-08-15
+ZA001-1409,50,Male,Middle,Married,Bachelor's,Gauteng,2211,Sports & Outdoors,3600.60,4,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,360,50,FALSE,4,4,Cash,2024-09-20
+ZA001-1410,41,Female,High,Divorced,Master's,Western Cape,7816,Books,320.70,7,Online,5,5,1,Never,5,Not Sensitive,0,32,0,TRUE,5,5,Credit Card,2024-10-25
+ZA001-1411,36,Male,Middle,Single,High School,North West,2756,Toys & Games,1300.80,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,130,20,FALSE,4,4,PayPal,2024-11-30
+ZA001-1412,42,Female,High,Married,Bachelor's,Limpopo,0716,Electronics,8700.40,2,Online,4,5,1.5,Never,5,Not Sensitive,0,870,300,TRUE,5,5,Credit Card,2024-12-05
+ZA001-1413,49,Male,Middle,Divorced,Master's,Mpumalanga,1217,Furniture,5100.25,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,510,100,FALSE,4,4,PayPal,2024-03-10
+ZA001-1414,30,Female,Middle,Single,Bachelor's,Gauteng,2018,Groceries,560.90,8,Online,5,3,1,Often,3,Very Sensitive,2,56,0,TRUE,3,4,Debit Card,2024-04-15
+ZA001-1415,46,Male,High,Married,Master's,Western Cape,8018,Home & Kitchen,4400.50,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,440,50,FALSE,5,5,Cash,2024-05-20
+ZA001-1416,38,Female,Middle,Divorced,High School,KwaZulu-Natal,4018,Fashion,2900.15,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,290,0,TRUE,4,4,Credit Card,2024-06-25
+ZA001-1417,50,Male,High,Single,Bachelor's,Free State,9318,Electronics,6400.20,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,640,200,FALSE,5,5,PayPal,2024-07-30
+ZA001-1418,27,Female,Low,Single,High School,Eastern Cape,6018,Beauty,370.60,9,Online,5,3,0.5,Often,3,Very Sensitive,2,37,0,TRUE,3,3,Debit Card,2024-08-05
+ZA001-1419,49,Male,Middle,Married,Bachelor's,Gauteng,2212,Sports & Outdoors,3700.80,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,370,50,FALSE,4,4,Cash,2024-09-10
+ZA001-1420,41,Female,High,Divorced,Master's,Western Cape,7817,Books,330.20,7,Online,4,5,1,Never,5,Not Sensitive,0,33,0,TRUE,5,5,Credit Card,2024-10-15
+ZA001-1421,37,Male,Middle,Single,High School,North West,2757,Toys & Games,1350.45,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,135,20,FALSE,4,4,PayPal,2024-11-20
+ZA001-1422,43,Female,High,Married,Bachelor's,Limpopo,0717,Electronics,8800.90,2,Online,5,5,1.5,Never,5,Not Sensitive,0,880,300,TRUE,5,5,Credit Card,2024-12-25
+ZA001-1423,48,Male,Middle,Divorced,Master's,Mpumalanga,1218,Furniture,5200.60,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,520,100,FALSE,4,4,PayPal,2024-03-30
+ZA001-1424,29,Female,Middle,Single,Bachelor's,Gauteng,2019,Groceries,570.25,8,Online,4,3,1,Often,3,Very Sensitive,2,57,0,TRUE,3,4,Debit Card,2024-04-05
+ZA001-1425,45,Male,High,Married,Master's,Western Cape,8019,Home & Kitchen,4500.15,3,In-Store,2,5,0.3,Never,5,Not Sensitive,0,450,50,FALSE,5,5,Cash,2024-05-10
+ZA001-1426,39,Female,Middle,Divorced,High School,KwaZulu-Natal,4019,Fashion,3000.70,6,Online,5,4,1,Sometimes,4,Somewhat Sensitive,1,300,0,TRUE,4,4,Credit Card,2024-06-15
+ZA001-1427,50,Male,High,Single,Bachelor's,Free State,9319,Electronics,6500.40,2,Mixed,3,5,1.5,Never,5,Not Sensitive,0,650,200,FALSE,5,5,PayPal,2024-07-20
+ZA001-1428,28,Female,Low,Single,High School,Eastern Cape,6019,Beauty,380.80,9,Online,4,3,0.5,Often,3,Very Sensitive,2,38,0,TRUE,3,3,Debit Card,2024-08-25
+ZA001-1429,49,Male,Middle,Married,Bachelor's,Gauteng,2213,Sports & Outdoors,3800.90,4,In-Store,2,4,1,Sometimes,4,Somewhat Sensitive,1,380,50,FALSE,4,4,Cash,2024-09-30
+ZA001-1430,42,Female,High,Divorced,Master's,Western Cape,7820,Books,340.90,7,Online,5,5,1,Never,5,Not Sensitive,0,34,0,TRUE,5,5,Credit Card,2024-10-05
+ZA001-1431,36,Male,Middle,Single,High School,North West,2758,Toys & Games,1400.60,3,In-Store,3,4,0.5,Sometimes,4,Somewhat Sensitive,1,140,20,FALSE,4,4,PayPal,2024-11-10
+ZA001-1432,44,Female,High,Married,Bachelor's,Limpopo,0718,Electronics,8900.25,2,Online,4,5,1.5,Never,5,Not Sensitive,0,890,300,TRUE,5,5,Credit Card,2024-12-15
+ZA001-1433,49,Male,Middle,Divorced,Master's,Mpumalanga,1219,Furniture,5300.20,4,Mixed,2,4,1,Sometimes,4,Somewhat Sensitive,1,530,100,FALSE,4,4,PayPal,2024-03-20
+ZA001-1434,30,Female,Middle,Single,Bachelor's,Gauteng,2020,Groceries,580.40,8,Online,5,3,1,Often,3,Very Sensitive,2,58,0,TRUE,3,4,Debit Card,2024-04-25
+ZA001-1435,46,Male,High,Married,Master's,Western Cape,8020,Home & Kitchen,4600.80,3,In-Store,3,5,0.3,Never,5,Not Sensitive,0,460,50,FALSE,5,5,Cash,2024-05-30
+ZA001-1436,38,Female,Middle,Divorced,High School,KwaZulu-Natal,4020,Fashion,3100.45,6,Online,4,4,1,Sometimes,4,Somewhat Sensitive,1,310,0,TRUE,4,4,Credit Card,2024-06-05
+ZA001-1437,50,Male,High,Single,Bachelor's,Free State,9320,Electronics,6600.90,2,Mixed,2,5,1.5,Never,5,Not Sensitive,0,660,200,FALSE,5,5,PayPal,2024-07-10
+ZA001-1438,29,Female,Low,Single,High School,Eastern Cape,6020,Beauty,390.10,9,Online,5,3,0.5,Often,3,Very Sensitive,2,39,0,TRUE,3,3,Debit Card,2024-08-15
+ZA001-1439,49,Male,Middle,Married,Bachelor's,Gauteng,2214,Sports & Outdoors,3900.60,4,In-Store,3,4,1,Sometimes,4,Somewhat Sensitive,1,390,50,FALSE,4,4,Cash,2024-09-20
+ZA001-1440,43,Female,High,Divorced,Master's,Western Cape,7821,Books,350.20,7,Online,4,5,1,Never,5,Not Sensitive,0,35,0,TRUE,5,5,Credit Card,2024-10-25
+ZA001-1441,37,Male,Middle,Single,High School,North West,2759,Toys & Games,1450.80,3,In-Store,2,4,0.5,Sometimes,4,Somewhat Sensitive,1,145,20,FALSE,4,4,PayPal,2024-11-30
+ZA001-1442,45,Female,High,Married,Bachelor's,Limpopo,0719,Electronics,9000.40,2,Online,5,5,1.5,Never,5,Not Sensitive,0,900,300,TRUE,5,5,Credit Card,2024-12-05
+ZA001-1443,50,Male,Middle,Divorced,Master's,Mpumalanga,1220,Furniture,5400.90,4,Mixed,3,4,1,Sometimes,4,Somewhat Sensitive,1,540,100,FALSE,4,4,PayPal,2024-03-10
+ZA001-1444,31,Female,Middle,Single,Bachelor's,Gauteng,2021,Groceries,590.80,8,Online,4,3,1,Often,3,Very Sensitive,2,59,0,TRUE
